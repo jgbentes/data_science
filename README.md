@@ -7,7 +7,7 @@
 # João Guilherme Bentes
 <sub>*Mestrando em Saúde da Família* na Universidade Regional do Cariri</sub>
 
-Médico com especialização em Saúde da Família e Auditoria, percebi que aprender Data Science e Python seria uma forma de me apropriar de mais ferramentas para aprofundar o meu conhecimento na área médica e conseguir extrair dados relevantes do universo de informações que diariamente é atualizado. Este repositório tem por objetivo reunir os projetos em Data Science fruto do curso de Data Science na Prática do profº Carlos Melo. 
+Médico com especialização em Saúde da Família e Auditoria. Percebi que aprender Data Science e Python seria uma forma de me apropriar de mais ferramentas para aprofundar o meu conhecimento na área médica e conseguir extrair dados relevantes do universo de informações que é diariamente atualizado. Este repositório tem por objetivo reunir os projetos em Data Science desenvolvidos no curso de Data Science na Prática do profº Carlos Melo. 
 
 
 **Background in:** Python, Medicina, Auditoria.
